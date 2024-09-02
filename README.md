@@ -32,3 +32,8 @@
   <img src="https://img.shields.io/badge/tlstmdgjs980902@gmail.com-624d3f.svg?style=for-the-badge&logo=gmail&logoColor=white" style="width: 300px; height: 30px;"/>
 </a>
 <br />
+
+## 🐂 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamSeungheonShin&show_icons=true&bg_color=624d3f&text_color=fef8f5&icon_color=93735e&border_color=31261f&title_color=fae0ce)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSeungheonShin&layout=compact&bg_color=624d3f&text_color=fef8f5&icon_color=93735e&border_color=31261f&title_color=fae0ce)
