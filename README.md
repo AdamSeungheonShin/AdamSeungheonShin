@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&width=full&height=400&color=624d3f&text=Seungheon%20Shin&fontColor=fef8f5&fontAlign=50&fontAlignY=30&fontSize=60&desc=Frontend%20Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&width=full&height=200&color=624d3f&text=Seungheon%20Shin&fontColor=fef8f5&fontAlign=50&fontAlignY=30&fontSize=60&desc=Frontend%20Engineer"/>
 </p>
 
 ## 🐻 About me
@@ -13,12 +13,12 @@
 
 ## 📦 Skills & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px;"/>
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="width: 100px; height: 30px;"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" style="width: 100px; height: 30px;"/>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="width: 100px; height: 30px;"/>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="width: 100px; height: 30px;"/>
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" style="width: 100px; height: 30px;"/>
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; height: 30px;"/>
+  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="width: 100px; height: 30px;"/>
 </div>
 <br />
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -35,6 +35,4 @@
 <br />
 
 ## 🐂 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamSeungheonShin&show_icons=true&bg_color=624d3f&text_color=fef8f5&icon_color=93735e&border_color=31261f&title_color=fae0ce)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSeungheonShin&layout=compact&bg_color=624d3f&text_color=fef8f5&icon_color=93735e&border_color=31261f&title_color=fae0ce)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamSeungheonShin&show_icons=true&bg_color=624d3f&text_color=fef8f5&icon_color=93735e&border_color=31261f&title_color=fae0ce) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSeungheonShin&layout=compact&bg_color=624d3f&text_color=fef8f5&icon_color=93735e&border_color=31261f&title_color=fae0ce)
