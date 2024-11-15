@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&width=full&height=200&color=624d3f&text=Seungheon%20Shin&fontColor=fef8f5&fontAlign=50&fontAlignY=30&fontSize=60&desc=Frontend%20Engineer"/>
 </p>
 
+<p align="center">
+  <a href="https://adamseungheonshin.notion.site">Check out my Portfolio 🗒️</a>
+</p>
+
 ## 🐻 About me
 <p align="center">
   사용자의 감동을 위한, 비즈니스를 위한 Product를 만들어 나가고 싶은 Frontend Engineer입니다.<br />
