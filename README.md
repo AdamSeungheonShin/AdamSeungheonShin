@@ -29,7 +29,7 @@
   <div align="center">
     <h3>Contact</h2>
     <a href="mailto:adam.seungheon@gmail.com">
-      <img src="https://img.shields.io/badge/tlstmdgjs980902@gmail.com-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=black" style="width: 260px; height: 30px;"/>
+      <img src="https://img.shields.io/badge/adam.seungheon@gmail.com-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=black" style="width: 260px; height: 30px;"/>
     </a>
   </div>
   <br />
