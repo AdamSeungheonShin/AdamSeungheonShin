@@ -25,9 +25,4 @@
     </a>
   </div>
   <br />
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdamSeungheonShin&show_icons=true&bg_color=f5f5f5&text_color=171717&icon_color=404040&border_color=fafafa&title_color=171717"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSeungheonShin&layout=compact&bg_color=f5f5f5&text_color=171717&icon_color=404040&border_color=fafafa&title_color=171717"/>
-  </div>
 <div/>
